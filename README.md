@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm GitOPEN.</h1>
 <h3 align="center">A boy who loves freedom, technology, and sharing.</h3>
 
@@ -7,12 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opengit" alt="opengit" /></a> </p>
 
-- 💬 Ask me about **python and android.**
+- 💬 Ask me about **Python and Android.**
 
-- 📫 How to reach me **gitopen@gmail.com**
+- 📫 How to reach me **gitopen[@]gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/gitopen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gitopen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +19,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opengit&show_icons=true&locale=en&layout=compact" alt="opengit" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opengit&show_icons=true&locale=en" alt="opengit" /></p>
+
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opengit&" alt="opengit" /></p>
 
